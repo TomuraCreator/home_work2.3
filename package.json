@@ -1,0 +1,26 @@
+{
+  "name": "home_work",
+  "version": "1.0.0",
+  "description": "ins es_lint",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TomuraCreator/home_work2.3.git"
+  },
+  "author": "Tomura_Kreator",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TomuraCreator/home_work2.3/issues"
+  },
+  "homepage": "https://github.com/TomuraCreator/home_work2.3#readme",
+  "devDependencies": {
+    "eslint": "^5.14.1",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.16.0"
+  },
+  "dependencies": {}
+}
